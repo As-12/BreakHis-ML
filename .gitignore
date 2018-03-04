@@ -1,0 +1,10 @@
+VALID/
+TRAIN/
+TEST/
+*.zip
+*.DS_Store
+*.hdf5
+*.pdf
+*.png
+*.torrent
+
